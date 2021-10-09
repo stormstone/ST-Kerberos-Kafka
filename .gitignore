@@ -1,0 +1,6 @@
+/.idea/
+/target/
+.iml
+report
+/.idea/workspace.xml
+.DS_Store
